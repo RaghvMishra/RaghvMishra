@@ -4,7 +4,7 @@
 </div>
 
 
-🎓 I’m currently studying at Palestine Technical University - Kadoorie <br />
+🎓 I’m currently working in Augurs innovation pvt ltd lucknow (U.P.) India <br />
 
 📩 Reach me on: [**Email**](mailto://raghvendra0021@gmail.com) <br />
 💬 Remember to keep striving for progress over perfection. A little progress everyday will go a very long way 🛣️
