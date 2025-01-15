@@ -5,7 +5,7 @@
 
 
 🎓 I’m currently studying at Palestine Technical University - Kadoorie <br />
-📄 [Know about my experiences **<a href="https://docs.google.com/document/d/1h5Ns32ZC-zQXZbBvYFKVzAolik3elHWmk8LF9GVHJVk/edit?usp=sharing" target="_blank">Resume</a>**. <br />](url)
+
 📩 Reach me on: [**Email**](mailto://raghvendra0021@gmail.com) <br />
 💬 Remember to keep striving for progress over perfection. A little progress everyday will go a very long way 🛣️
 
