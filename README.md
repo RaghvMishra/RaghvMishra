@@ -4,8 +4,8 @@
 </div>
 
 
-🎓  I am a skilled ASP.NET C# developer with 5 years of experience in building scalable web applications. Proficient in C#, JavaScript, jQuery, React, Angular, and MS SQL,<br /> I specialize in creating robust backend solutions, responsive front-end interfaces, and optimizing database performance. With a strong focus on delivering high-quality solutions and a passion for learning, I thrive in dynamic, collaborative environments.<br />
-I’m currently working in Augurs innovation pvt ltd lucknow (U.P.) India <br />
+🎓  I am a skilled ASP.NET C# developer with 5 years of experience in building scalable web applications. Proficient in C#, JavaScript, jQuery, React, Angular, and MS SQL, I specialize in creating robust backend solutions, responsive front-end interfaces, and optimizing database performance. With a strong focus on delivering high-quality solutions and a passion for learning, I thrive in dynamic, collaborative environments.<br />
+I’m currently working in <b>Augurs innovation pvt ltd lucknow (U.P.) India</b> <br />
 
 📩 Reach me on: [**Email**](mailto://raghvendra0021@gmail.com) <br />
 💬 Remember to keep striving for progress over perfection. A little progress everyday will go a very long way 🛣️
